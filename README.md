@@ -1,5 +1,5 @@
 # Zedginsta
-  A tool that specializes in collecting information about the victim’s account on Instagram, even if it is private. The tool is easy    and simple V -1
+  A tool that specializes in collecting information about the victim’s account on Instagram, even if it is private. The tool is easy    and simple V -1 
   How Install  Tool 
 
 ----------------------------------------------
