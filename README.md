@@ -1,13 +1,7 @@
 # Zedginsta
-A tool that specializes in collecting information about the victim’s account on Instagram, even if it is private. The tool is easy and simple V -
-How Install  Tool 
+  A tool that specializes in collecting information about the victim’s account on Instagram, even if it is private. The tool is easy    and simple V -1
+  How Install  Tool 
 
-1 - git colne https://github.com/AhmedCrash/Zedginsta
-2 - cd Zedginsta 
-3 - pip install -r requirements.txt
-4 - Enter Passowrd Zedginsta
-5 - Enter Username without the @ sign
-6 - Enter the number of your choice
 ----------------------------------------------
                                                             |   { V - 1 }   |
                                             ---------------------------------------------------|
